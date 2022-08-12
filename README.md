@@ -1,5 +1,5 @@
 # FootballPlayer
-Develop Simple design without graphic environment of football player with Python .
+Development of a Simple design without graphic environment of football player with Python .
 
 i have used numpy and matpotlib ( + mpl_toolkits )
 
